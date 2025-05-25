@@ -6,7 +6,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-2.x-red.svg)](https://keras.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/username/brain-tumor-detection?style=social)](https://github.com/username/brain-tumor-detection/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/sohan2311/brain-tumor-detection?style=social)](https://github.com/username/brain-tumor-detection/stargazers)
 
 ## 🎯 Project Overview
 
