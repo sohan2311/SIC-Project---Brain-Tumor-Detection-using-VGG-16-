@@ -70,7 +70,7 @@ pip install tensorflow keras opencv-python matplotlib scikit-learn plotly tqdm i
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/brain-tumor-detection.git
+   git clone https://github.com/sohan2311/brain-tumor-detection.git
    cd brain-tumor-detection
    ```
 
